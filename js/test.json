@@ -1,0 +1,70 @@
+{
+    "menuItems": [
+        {
+            "ahref": "home",
+            "aText": "Stories"
+        },
+        {
+            "ahref": "about",
+            "aText": "Post"
+        },
+        {
+            "ahref": "contact",
+            "aText": "Author"
+        }
+    ],
+    "menuGrid": [
+        {
+            "imgSrc": 1,
+            "aText": "We're living some strange times",
+            "pName": "Mary"
+        },
+        {
+            "imgSrc": 2,
+            "aText": "Dreaming of Las Vegas Crazyness",
+            "pName": "Jane"
+        },
+        {
+            "imgSrc": 3,
+            "aText": "The beauty of this world is in your heart",
+            "pName": "Sal"
+        },
+        {
+            "imgSrc": 4,
+            "aText": "San Francisco at its best view in all seasons",
+            "pName": "Steve"
+        }
+    ],
+    "menuGrid_1": [
+        {
+            "imgSrc": 5,
+            "aText": "Autumn doesn't have to be nostalgic, you know?",
+            "pName": "Mary"
+        },
+        {
+            "imgSrc": 6,
+            "aText": "Little red dress and a perfect summer",
+            "pName": "Jane"
+        },
+        {
+            "imgSrc": 7,
+            "aText": "10 Things you should know about choosing your house",
+            "pName": "Sal"
+        },
+        {
+            "imgSrc": 8,
+            "aText": "Best galleries in the world with photos",
+            "pName": "Steve"
+        },
+        {
+            "imgSrc": 9,
+            "aText": "Thinking outside the box can help you prosper",
+            "pName": "Sal"
+        },
+        {
+            "imgSrc": 10,
+            "aText": "Visiting the world means learning cultures",
+            "pName": "Steve"
+        }
+    ]
+}
